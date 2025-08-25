@@ -16,7 +16,9 @@ This project demonstrates the use of **OOP concepts (classes, objects, encapsula
 
 ## 📂 Project Structure
 ATM-Simulator/
+
 │── ATMSimulator.java # Main program
+
 │── README.md # Project documentation
 
 ![ATM Output](https://github.com/Kavya123k/ATM-Simulator/blob/main/Screenshot%202025-08-25%20114128.png)
