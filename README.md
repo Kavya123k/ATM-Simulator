@@ -19,4 +19,4 @@ ATM-Simulator/
 │── ATMSimulator.java # Main program
 │── README.md # Project documentation
 
-![ATM Output](https://user-images.githubusercontent.com/.../output.png)
+![ATM Output](https://github.com/Kavya123k/ATM-Simulator/blob/main/Screenshot%202025-08-25%20114128.png)
